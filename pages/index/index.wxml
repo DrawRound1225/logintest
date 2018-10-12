@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+<text>欢迎！{{userInfo.name}}</text>
+ <text>电话：{{userInfo.phone}}</text>
+ <text>地址：{{userInfo.address}}</text>
+</view>
